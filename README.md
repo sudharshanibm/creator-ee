@@ -1,6 +1,6 @@
 # Ansible Creator Execution Environment
 
-This image is no longer maintained.  Please try the new image:
+This image is no longer maintained. Please try the new image:
 
 https://ansible.readthedocs.io/projects/dev-tools/container/
 
